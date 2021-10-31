@@ -1,0 +1,19 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#score {
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+#timer {
+    font-size: 30px;
+    float: right;
+    margin-right: 100px;
+}
+
+
+#sketch_to_be_drawn {
+   text-decoration: deeppink;
+}
